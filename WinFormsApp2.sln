@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertisementManage", "WinFormsApp2\AdvertisementManage.csproj", "{AB5D9125-325E-4A56-BDB6-726DC5499068}"
+EndProject
+Global
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C682F190-6D87-4279-B31E-D1F47AC45EE7}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5D9125-325E-4A56-BDB6-726DC5499068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5D9125-325E-4A56-BDB6-726DC5499068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5D9125-325E-4A56-BDB6-726DC5499068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5D9125-325E-4A56-BDB6-726DC5499068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
